@@ -9,10 +9,7 @@
 - EJS (for templating)
 - Marked (for HTML markdown)
 
-### Usage: online
-Navigate to `alchemistreturns.github.io/html-renderer/`
-
-### Usage: on local devices
+### Usage
 Make sure you have node, express, ejs and marked installed, clone the repository and run
 `node app.js`
 
